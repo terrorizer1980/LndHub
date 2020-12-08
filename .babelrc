@@ -6,7 +6,8 @@
         "targets": {
           "node": true
         }
-      }
+      },
+      "@babel/preset-react"
     ]
   ]
 }
