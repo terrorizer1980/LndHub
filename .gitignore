@@ -4,6 +4,9 @@ admin.macaroon
 tls.cert
 logs/
 
+# build
+dist
+
 # dependencies
 /node_modules
 node_modules/
