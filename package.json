@@ -29,7 +29,7 @@
     "frisbee": "^3.1.4",
     "grpc": "^1.24.4",
     "ioredis": "^4.19.2",
-    "jayson": "^3.3.4",
+    "jayson": "^3.6.6",
     "morgan": "^1.9.1",
     "mustache": "^4.0.1",
     "node-uuid": "^1.4.8",
