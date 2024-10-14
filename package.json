@@ -24,7 +24,7 @@
     "eslint": "^6.8.0",
     "eslint-config-prettier": "^6.15.0",
     "eslint-plugin-prettier": "^3.1.4",
-    "express": "^4.16.4",
+    "express": "^4.21.1",
     "express-rate-limit": "^5.2.3",
     "frisbee": "^3.1.4",
     "grpc": "^1.24.4",
